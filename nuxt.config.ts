@@ -23,10 +23,6 @@ export default defineNuxtConfig({
   studio: {
     // Studio admin route (default: '/_studio')
     route: '/_studio',
-    development: {
-      sync: true // Enable development mode
-    },
-
     // GitHub repository configuration (owner and repo are required)
     repository: {
       provider: 'github', // only GitHub is currently supported
