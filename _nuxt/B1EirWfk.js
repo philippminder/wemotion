@@ -1,1 +1,0 @@
-import{_ as s,d as n,i as o,Y as t}from"./BHctspA-.js";const c={},l={class:"h-full bg-green-600 flex flex-col"};function r(e,a){return o(),n("div",l,[t(e.$slots,"default")])}const _=s(c,[["render",r]]);export{_ as default};

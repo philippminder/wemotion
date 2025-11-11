@@ -1,0 +1,1 @@
+import{_ as c}from"./K0S7nBgI.js";import{_ as o,M as r,i as t}from"./D00t23Qd.js";const n={};function s(a,_){const e=c;return t(),r(e,{class:"grow flex flex-col justify-center items-center gap-20"})}const l=o(n,[["render",s]]);export{l as default};
