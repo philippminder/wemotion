@@ -1,0 +1,1 @@
+import{_ as s,d as r,i as n,Y as o}from"./BHctspA-.js";const t={};function a(e,c){return n(),r("em",null,[o(e.$slots,"default")])}const l=Object.assign(s(t,[["render",a]]),{__name:"ProseEm"});export{l as default};
